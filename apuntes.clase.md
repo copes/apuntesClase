@@ -6,7 +6,7 @@
 
 La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga de que instrucciones para sistemas Unix funcionen en un entorno Windows." Más información sobre Cygwin e instalación [aquí](https://fuubar.wordpress.com/2014/01/14/cygwin-creyendome-un-chico-linux-en-windows-parte-i./). Para profundizar más en los comandos de Linux, mirar [este índice]("http://ss64.com/bash/").
 
-   <pre>$ Indica que somos usuarios normales.</pre>
+   <pre>$ </pre>Indica que somos usuarios normales.</pre>
    <pre># Indica que somos administradores.</pre>
    <pre>pwd Print Working directory. Te dice el punto de partida en la estructura de ficheros</pre>
    <pre>ls Te da información sobre los ficheros que hay en un directorio</pre>
