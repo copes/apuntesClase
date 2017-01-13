@@ -61,7 +61,7 @@ Emacs es un editor de texto con una gran cantidad de funciones, muy popular entr
 en emacs: te lleva a ruta de fichero para abrir
 *     ctrl x + ctrl w
 en emacs: guardar archivo
-*     ctrl y
+*     ctrl + y
 pegar
 *     ctrl x + b
 modelo de varios buffers
