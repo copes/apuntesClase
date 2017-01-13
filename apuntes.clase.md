@@ -30,23 +30,23 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   </li>
   
   <li>
-  <code>mkdir nuevaCarpeta</code>. Crea una nueva carpeta.
+  <code>mkdir nuevaCarpeta</code> Crea una nueva carpeta.
   </li>
   
   <li>
-  <code>touch nuevoFichero</code>. Crea un fichero.
+  <code>touch nuevoFichero</code> Crea un fichero.
   </li>
   
   <li>
-  <code>file nuevoFichero</code>. Te da la metadata de nuevoFichero.
+  <code>file nuevoFichero</code> Te da la metadata de nuevoFichero.
   </li>
   
   <li>
-  <code>rm -rf nombrecarpeta</code>. Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
+  <code>rm -rf nombrecarpeta</code> Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
   </li>
   
   <li>
-  <code>more .nombreFichero</code>. Abrir fichero
+  <code>more .nombreFichero</code> Abrir fichero
   </li>
 </ul>
 ### 1.1 - El archivo .bash_history
