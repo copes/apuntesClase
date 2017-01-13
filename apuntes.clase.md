@@ -8,7 +8,7 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
 
    <pre>$ Indica que somos usuarios normales.</pre>
    <pre># Indica que somos administradores.</pre>
-   <pre> pwd Print Working directory. Te dice el punto de partida en la estructura de ficheros</pre>
+   <pre>pwd Print Working directory. Te dice el punto de partida en la estructura de ficheros</pre>
    <pre>ls Te da información sobre los ficheros que hay en un directorio</pre>
    <pre>cd Change Directory. Te traslada a otro directorio. cd / nos lleva a la raíz del sistema.</pre>
   <pre> mv cambiar nombre de directorio o fichero. El comando "mv mitexto.txt mitextoNuevo.txt" Cambiara el nombre del fichero mitexto por el otro.</pre>
