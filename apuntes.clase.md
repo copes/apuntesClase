@@ -42,7 +42,7 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   </li>
   
   <li>
-  <code>rm -rf nombrecarpeta</code> Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
+  <code>rm -rf nombreCarpeta</code> Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
   </li>
   
   <li>
