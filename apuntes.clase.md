@@ -11,12 +11,12 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
    <pre>pwd Print Working directory. Te dice el punto de partida en la estructura de ficheros</pre>
    <pre>ls Te da información sobre los ficheros que hay en un directorio</pre>
    <pre>cd Change Directory. Te traslada a otro directorio. cd / nos lleva a la raíz del sistema.</pre>
-  <pre> mv cambiar nombre de directorio o fichero. El comando "mv mitexto.txt mitextoNuevo.txt" Cambiara el nombre del fichero mitexto por el otro.</pre>
-   mkdir nuevaCarpeta. Crea una nueva carpeta.
-   touch nuevoFichero. Crea un fichero
-   file nuevoFichero. Te da la metadata de nuevoFichero
-   rm -rf nombrecarpeta. Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
-   more .nombreFichero. Abrir fichero
+  <pre>mv cambiar nombre de directorio o fichero. El comando "mv mitexto.txt mitextoNuevo.txt" Cambiara el nombre del fichero mitexto por el otro.</pre>
+   <pre>mkdir nuevaCarpeta. Crea una nueva carpeta.</pre>
+   <pre>touch nuevoFichero. Crea un fichero</pre>
+   <pre>file nuevoFichero. Te da la metadata de nuevoFichero</pre>
+   <pre>rm -rf nombrecarpeta. Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.</pre>
+   <pre>more .nombreFichero. Abrir fichero</pre>
 ### 1.1 - El archivo .bash_history
 corresponde a un archivo de registro o logs que guarda los comandos ejecutados en bash por un usuario en particular, cuando un usuario ingresa vía ssh a un sistema por ejemplo, ejecuta los típicos comandos “dir, cd, ls” y estos quedan registrados. [Más información].("https://blog.zerial.org/seguridad/cosas-que-encontramos-en-los-archivos-bash_history/")
 
