@@ -4,7 +4,7 @@
 
 ## 1 - Comandos básicos de consola Cygwin
 
-La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga de que instrucciones para sistemas Unix funcionen en un entorno Windows." Más información sobre Cygwin e instalación [aquí](https://fuubar.wordpress.com/2014/01/14/cygwin-creyendome-un-chico-linux-en-windows-parte-i./). Para profundizar más en los comandos de Linux, mirar [este índice]("http://ss64.com/bash/").
+La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga de que instrucciones para sistemas Unix funcionen en un entorno Windows." Más información sobre Cygwin e instalación [aquí](https://fuubar.wordpress.com/2014/01/14/cygwin-creyendome-un-chico-linux-en-windows-parte-i./). Para profundizar más en los comandos de Linux, mirar [este índice](http://ss64.com/bash/).
 <ul>
   <li>
   <code>$</code>Indica que somos usuarios normales.
@@ -56,7 +56,7 @@ corresponde a un archivo de registro o logs que guarda los comandos ejecutados e
 De la carpeta de instalación a windows. Se hace de la siguiente manera: llendo al archivo de configuración con Emacs (/etc/nsswitch.conf), o navegando a través del interfaz del sistema operativo. Después se abre este archivo (nsswitch.conf) con Emacs o con otro editor de texto y se pone windows en la variable db_home. Dejando comentado lo demás.
 
 ## 2 - Atajos en Emacs
-Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. [Mas info]("https://es.wikipedia.org/wiki/Emacs").
+Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. [Mas info](https://es.wikipedia.org/wiki/Emacs).
 *     ctrl x + ctrl f
 en emacs: te lleva a ruta de fichero para abrir
 *     ctrl x + ctrl w
