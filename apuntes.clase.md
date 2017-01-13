@@ -18,7 +18,10 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
    <pre>rm -rf nombrecarpeta. Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.</pre>
    <pre>more .nombreFichero. Abrir fichero</pre>
 ### 1.1 - El archivo .bash_history
-corresponde a un archivo de registro o logs que guarda los comandos ejecutados en bash por un usuario en particular, cuando un usuario ingresa vía ssh a un sistema por ejemplo, ejecuta los típicos comandos “dir, cd, ls” y estos quedan registrados. [Más información].("https://blog.zerial.org/seguridad/cosas-que-encontramos-en-los-archivos-bash_history/")
+corresponde a un archivo de registro o logs que guarda los comandos ejecutados en bash por un usuario en particular, cuando un usuario ingresa vía ssh a un sistema por ejemplo, ejecuta los típicos comandos “dir, cd, ls” y estos quedan registrados. [Más información].("https://blog.zerial.org/seguridad/cosas-que-encontramos-en-los-archivos-bash_history/").
+
+### 1.2 - Cambiar la ruta absoluta en Cygwin
+De la carpeta de instalación a windows. Se hace de la siguiente manera: llendo al archivo de configuración con Emacs (/etc/nsswitch.conf), o navegando a través del interfaz del sistema operativo. Después se abre este archivo (nsswitch.conf) con Emacs o con otro editor de texto y se pone windows en la variable db_home. Dejando comentado lo demás.
 
 ## 2 - Atajos en Emacs
 Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. [Mas info]("https://es.wikipedia.org/wiki/Emacs").
