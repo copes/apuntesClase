@@ -6,12 +6,12 @@
 
 La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga de que instrucciones para sistemas Unix funcionen en un entorno Windows." Más información sobre Cygwin e instalación [aquí](https://fuubar.wordpress.com/2014/01/14/cygwin-creyendome-un-chico-linux-en-windows-parte-i./). Para profundizar más en los comandos de Linux, mirar [este índice]("http://ss64.com/bash/").
 
-   <pre>$</pre> Indica que somos usuarios normales.
-   # Indica que somos administradores.
-   pwd Print Working directory. Te dice el punto de partida en la estructura de	ficheros
-   ls Te da información sobre los ficheros que hay en un directorio
-   cd Change Directory. Te traslada a otro directorio. cd / nos lleva a la raíz del sistema.
-   mv cambiar nombre de directorio o fichero. El comando "mv mitexto.txt mitextoNuevo.txt" Cambiara el nombre del fichero mitexto por el otro.
+   <pre>$ Indica que somos usuarios normales.</pre>
+   <pre># Indica que somos administradores.</pre>
+   <pre> pwd Print Working directory. Te dice el punto de partida en la estructura de ficheros</pre>
+   <pre>ls Te da información sobre los ficheros que hay en un directorio</pre>
+   <pre>cd Change Directory. Te traslada a otro directorio. cd / nos lleva a la raíz del sistema.</pre>
+  <pre> mv cambiar nombre de directorio o fichero. El comando "mv mitexto.txt mitextoNuevo.txt" Cambiara el nombre del fichero mitexto por el otro.</pre>
    mkdir nuevaCarpeta. Crea una nueva carpeta.
    touch nuevoFichero. Crea un fichero
    file nuevoFichero. Te da la metadata de nuevoFichero
