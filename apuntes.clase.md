@@ -46,7 +46,7 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   </li>
   
   <li>
-  <code>more .nombreFichero</code> Abrir fichero
+  <code>more nombreFichero</code> Abrir fichero
   </li>
 </ul>
 ### 1.1 - El archivo .bash_history
