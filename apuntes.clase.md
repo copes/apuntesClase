@@ -71,7 +71,7 @@ salir
 ## 3 - Instalando git a través de Cygwin
 <ol>
   <li>bajarse el setup de cygwin e inicializarlo</li>
-  <li>En select package, elegir git distributed version control system</li>
+  <li>En select package, elegir <strong>git distributed version control system</strong></li>
   <li>Otros programas que también nos hemos descargado: git teaseratct, imagemagic xpdf</li>
 </ol>
 
