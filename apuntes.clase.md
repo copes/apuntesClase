@@ -75,6 +75,18 @@ salir
   <li>Otros programas que también nos hemos descargado: git teaseratct, imagemagic xpdf</li>
 </ol>
 
+<code>echo "# gds" >> README.md</code>
+<code>git init</code>
+<code>git add README.md</code>
+<code>git commit -m "first commit"</code>
+<code>git remote add origin https://github.com/Antonio-HR/gds.git</code>
+<code>git push -u origin master</code>
+
+
+
+
+
+
    
 
 
