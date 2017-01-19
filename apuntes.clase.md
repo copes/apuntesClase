@@ -102,6 +102,13 @@ salir
 4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code> añadir al repositorio git remoto, el origen.
 5. <code>git push -u origin master</code> subir al repositorio "origin". En la rama master.
 
+## 5 - Open Refine
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
 
 
 
