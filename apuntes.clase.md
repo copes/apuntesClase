@@ -40,13 +40,17 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   <li>
   <code>file nuevoFichero</code> Te da la metadata de nuevoFichero.
   </li>
-  
+   <li>
+  <code>echo "Empieza el Readme" > Readme.md</code> Crea un readme con las palabras que están entre comillas.
+  </li>
+  <li>
+  <code>echo "Continua el Readme" >> Readme.md</code> Continua el readme anterior con las palabras que están entre comillas.
+  </li>
   <li>
   <code>rm -rf nombreCarpeta</code> Borra una carpeta del sistema. -r quiere decir que se borre todo el contenido de la carpeta. -f quiere decir que se borre absolutamente del sistema.
   </li>
-  
   <li>
-  <code>more nombreFichero</code> Abrir fichero
+  <code>more nombreFichero</code> Ver contenido del fichero
   </li>
   <li>
   <code>unzip nombreZip</code> Descomprimir zip
