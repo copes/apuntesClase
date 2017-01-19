@@ -77,11 +77,11 @@ salir
 
 ## 4 - Pasos en Github
 
-<code>git init</code>
-<code>git add README.md</code>
-<code>git commit -m "first commit"</code>
-<code>git remote add origin https://github.com/Antonio-HR/gds.git</code>
-<code>git push -u origin master</code>
+1. <code>git init</code>
+2. <code>git add README.md</code>
+3. <code>git commit -m "first commit"</code>
+4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code>
+5. <code>git push -u origin master</code>
 
 
 
