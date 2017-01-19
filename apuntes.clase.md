@@ -51,6 +51,12 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   <li>
   <code>unzip nombreZip</code> Descomprimir zip
   </li>
+  <li>
+  <code>mv nombreDirectorio/ otroDirectorio/</code>mover nombreDirectorio a otroDirectorio
+  </li>
+   <li>
+  <code>mc nombreZip</code> copiar zip
+  </li>
 </ul>
 ### 1.1 - El archivo .bash_history
 corresponde a un archivo de registro o logs que guarda los comandos ejecutados en bash por un usuario en particular, cuando un usuario ingresa vía ssh a un sistema por ejemplo, ejecuta los típicos comandos “dir, cd, ls” y estos quedan registrados. [Más información](https://blog.zerial.org/seguridad/cosas-que-encontramos-en-los-archivos-bash_history/).
@@ -85,6 +91,7 @@ salir
 3. <code>git commit -m "first commit"</code>
 4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code>
 5. <code>git push -u origin master</code>
+
 
 
 
