@@ -97,7 +97,7 @@ salir
 2. <code>git add README.md</code> vincular al repositorio git el Readme.
 3. <code>git commit -m "first commit"</code> realizar un primer commit.
 4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code> añadir al repositorio git remoto, el origen.
-5. <code>git push -u origin master</code> subir al repositorio.
+5. <code>git push -u origin master</code> subir al repositorio "origin". En la rama master.
 
 
 
