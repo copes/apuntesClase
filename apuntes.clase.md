@@ -93,7 +93,7 @@ salir
 
 ## 4 - Pasos en Github
 
-1. <code>git init</code>
+1. <code>git init</code>: iniciar un repositorio git local en tu máquina.
 2. <code>git add README.md</code>
 3. <code>git commit -m "first commit"</code>
 4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code>
