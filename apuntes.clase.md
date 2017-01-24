@@ -62,6 +62,9 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   <code>mv nombreDirectorio/ otroDirectorio/</code>mover nombreDirectorio a otroDirectorio
   </li>
    <li>
+  <code>mv file.*/ otroDirectorio/</code>mover TODOS los tipos de fichero que lleven el nombre file, a otro directorio
+  </li>
+   <li>
   <code>mc nombreZip</code> copiar zip
   </li>
   <li>
@@ -69,6 +72,9 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   </li>
   <li>
   <code>./tabula.exe</code> Abrir Tabula / ejecutar tabula.exe desde consola
+  </li>
+  <li>
+  <code>clear</code> Despejar la consola
   </li>
 </ul>
 ### 1.1 - El archivo .bash_history
@@ -107,7 +113,7 @@ salir
 
 ## 5 - Open Refine
 
-| Tables        | Are           | Cool  |
+| Función       | Nombre        | Descripción  |
 | ------------- |:-------------:| -----:|
 | col 3 is      | right-aligned | $1600 |
 | col 2 is      | centered      |   $12 |
