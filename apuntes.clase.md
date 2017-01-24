@@ -55,6 +55,9 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
   <li>
   <code>unzip nombreZip</code> Descomprimir zip
   </li>
+   <li>
+  <code>unzip -l nombreZip</code> Te dice lo que contiene el zip. Previene de virus
+  </li>
   <li>
   <code>mv nombreDirectorio/ otroDirectorio/</code>mover nombreDirectorio a otroDirectorio
   </li>
