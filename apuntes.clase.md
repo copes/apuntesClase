@@ -117,8 +117,8 @@ Si lo que hemos subido es un fichero html, se puede redenrizar en el navegador y
 
 | Función       | Nombre        | Descripción  |
 | ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
+| value.replace(".","")      | remplazar | remplazar el punto por nada |
+| value.replace().replace()     | remplazar en dos pasos      |   el punto concatena |
 | zebra stripes | are neat      |    $1 |
 
 
