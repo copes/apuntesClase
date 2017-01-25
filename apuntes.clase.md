@@ -114,12 +114,32 @@ Emacs es un editor de texto con una gran cantidad de funciones, muy popular entr
 ### 4.1 - Publicar en la web a través de Github
 Si lo que hemos subido es un fichero html, se puede redenrizar en el navegador y por lo tanto, publicar en la web. Github ofrece las ramas </a href="https://pages.github.com/">github-pages</a> para ello. Más información, <a href="https://github.com/flowsta/github#publicación-web">aquí</a>.
 ## 5 - Open Refine
+Open Refine ofrece un lenguaje de programación llamado General Refine Expresions Languages (GREL) muy sencillo y útil para limpiar datos. A continuación, algunas funciones:
 
-| Función       | Nombre        | Descripción  |
+| Función      | Nombre        | Descripción  |
 | ------------- |:-------------:| -----:|
 | <code>value.replace(".","")</code>      | remplazar | remplazar el punto por nada |
 | <code>value.replace().replace()</code>     | remplazar en dos pasos      |   el punto concatena |
-| zebra stripes | are neat      |    $1 |
+| <code>value.toNumber()</code> | toNumber()|    convertir string a dato númerico |
+|<code>value.toString()</code>| toString()| convertir dato numerico a cadena de caracteres|
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
+||||
 
 
 
