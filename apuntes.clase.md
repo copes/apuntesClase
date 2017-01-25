@@ -86,7 +86,8 @@ De la carpeta de instalación a windows. Se hace de la siguiente manera: llendo 
 ## 2 - Atajos en Emacs
 Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. [Mas info](https://es.wikipedia.org/wiki/Emacs).
 
-*     <code>ctrl x + ctrl w                                                                                                                      : guardar archivo</code>
+*     <code>ctrl x + ctrl w
+  : guardar archivo</code>
 *     <code>ctrl + y  
    : pegar</code>
 *    <code>ctrl x + b 
