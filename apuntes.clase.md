@@ -117,8 +117,8 @@ Si lo que hemos subido es un fichero html, se puede redenrizar en el navegador y
 
 | Función       | Nombre        | Descripción  |
 | ------------- |:-------------:| -----:|
-| value.replace(".","")      | remplazar | remplazar el punto por nada |
-| value.replace().replace()     | remplazar en dos pasos      |   el punto concatena |
+| <code>value.replace(".","")</code>      | remplazar | remplazar el punto por nada |
+| <code>value.replace().replace()</code>     | remplazar en dos pasos      |   el punto concatena |
 | zebra stripes | are neat      |    $1 |
 
 
