@@ -111,6 +111,8 @@ Emacs es un editor de texto con una gran cantidad de funciones, muy popular entr
 4. <code>git remote add origin https://github.com/Antonio-HR/gds.git</code> añadir al repositorio git remoto, el origen.
 5. <code>git push -u origin master</code> subir al repositorio "origin". En la rama master.
 
+### 4.1 - Publicar en la web a través de Github
+Si lo que hemos subido es un fichero html, se puede redenrizar en el navegador y por lo tanto, publicar en la web. Github ofrece las ramas </a href="https://pages.github.com/">github-pages</a>. Más información, <a href="https://github.com/flowsta/github#publicación-web">aquí</a>.
 ## 5 - Open Refine
 
 | Función       | Nombre        | Descripción  |
