@@ -85,16 +85,16 @@ De la carpeta de instalación a windows. Se hace de la siguiente manera: llendo 
 
 ## 2 - Atajos en Emacs
 Emacs es un editor de texto con una gran cantidad de funciones, muy popular entre programadores y usuarios técnicos. [Mas info](https://es.wikipedia.org/wiki/Emacs).
-*     ctrl x + ctrl f
-en emacs: te lleva a ruta de fichero para abrir
-*     ctrl x + ctrl w
-en emacs: guardar archivo
-*     ctrl + y
-pegar
-*     ctrl x + b
-modelo de varios buffers
-*     ctrl x + 1
-salir
+
+*     ctrl x + ctrl w                                                                                                                      : guardar archivo
+*     ctrl + y  
+   : pegar
+*     ctrl x + b 
+   : modelo de varios buffers
+*     ctrl x + 1:
+   : salir
+*     ctrl - x ctrl - f
+ :  te lleva a ruta de fichero para abrir
 
 ## 3 - Instalando git a través de Cygwin
 <ol>
