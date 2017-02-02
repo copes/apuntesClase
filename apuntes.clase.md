@@ -94,6 +94,9 @@ La consola Cygwin es un emulador de la consola de Linux en Windows."Se encarga d
    <li>
   <code>head -45 file.csv | tail -5 </code> encadenamiento de head y tail
   </li>
+   <li>
+  <code>mkdir carpeta &amp;&amp; cd carpeta &amp;&amp; pwd </code> concatenamiento de sentencias con &amp;
+  </li>
 </ul>
 ### 1.1 - El archivo .bash_history
 corresponde a un archivo de registro o logs que guarda los comandos ejecutados en bash por un usuario en particular, cuando un usuario ingresa vía ssh a un sistema por ejemplo, ejecuta los típicos comandos “dir, cd, ls” y estos quedan registrados. [Más información](https://blog.zerial.org/seguridad/cosas-que-encontramos-en-los-archivos-bash_history/).
