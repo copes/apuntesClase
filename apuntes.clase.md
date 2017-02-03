@@ -130,6 +130,12 @@ Emacs es un editor de texto con una gran cantidad de funciones, muy popular entr
  :  te lleva a ruta de fichero para abrir</code>
  <code>alt x
  :  cargar un paquete, abrir consola de comandos si le añades term</code>
+ <code>ctrl x k
+ :  kill buffer (pantalla)</code>
+ <code>ctrl s
+ :  kill buffer (pantalla)</code>
+  <code>packages-install-packages
+ :  instalar</code>
 
 ## 3 - Instalando git a través de Cygwin
 <ol>
